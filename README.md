@@ -1,18 +1,26 @@
 # angular-cd-directive
 
-Directive to display menu from json
+Directive to display multi-level menu from json
 
 ***
 
-[![Build Status](https://secure.travis-ci.org/angular-ui/bootstrap.svg)](http://travis-ci.org/angular-ui/bootstrap)
-[![devDependency Status](https://david-dm.org/angular-ui/bootstrap/dev-status.svg?branch=master)](https://david-dm.org/angular-ui/bootstrap#info=devDependencies)
 
 ## Requirement
 
-* **AngularJS**: https://angularjs.org/
-* **ngRoute**: https://docs.angularjs.org/api/ngRoute/service/$route/
+* **AngularJS**: https://angularjs.org
 
-#Testing
-npm install
-bower install
-grunt
+
+### Development
+#### Prepare your environment
+* Install [Node.js](http://nodejs.org/) and NPM (should come with)
+* Install global dev dependencies: `npm install -g grunt-cli karma`
+* Install local dev dependencies: `npm install` while current directory is cd-menu repo
+
+
+##Testing
+
+```bash
+$ npm install
+$ bower install
+$ grunt
+```
