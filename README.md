@@ -19,7 +19,7 @@ $ grunt
 ```
 
 
-##Testing
+##Test
 ```bash
 $ grunt test
 ```

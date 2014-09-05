@@ -2,7 +2,7 @@
   "name": "cd-menu-directive",
   "version": "0.0.1",
   "main":"./build/cd-menu-directive.js",
-  "description": "Directive to display menu",
+  "description": "Directive to attach multi-level menu to a page",
   "author": "Cedric Duffournet",
   "hompage": "",
   "license": "MIT",
