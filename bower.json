@@ -1,0 +1,21 @@
+{
+  "name": "cd-menu-directive",
+  "version": "0.0.1",
+  "main":"./build/cd-menu-directive.js",
+  "description": "Directive to display menu",
+  "author": "Cedric Duffournet",
+  "hompage": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies":{
+    "angular": "~1.x"
+  },
+  "devDependencies":{
+    "angular-route": "~1.2.x",
+    "angular-mocks": "~1.x"
+  }
+}

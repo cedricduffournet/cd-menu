@@ -1,0 +1,8 @@
+ul.nav-sidebar  li div{
+    padding-left: 10px;
+}
+
+ul.nav-sidebar  li a.active{
+    background-color:#25a25a;
+    color:white;
+}

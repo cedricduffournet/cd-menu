@@ -1,0 +1,7 @@
+
+<ul class="nav nav-sidebar">
+<li ng-repeat="link in links">
+  <menu-item itemlink=link></menu-item>
+      <div ng-init="links = link.submenu;" ng-include="'template/menu-tpl.html'" ng-if="link.submenu"></div>
+</li>
+</ul>
