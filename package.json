@@ -1,6 +1,6 @@
 {
   "name": "cd-menu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Directive to display menu",
   "devDependencies": {
     "connect-modrewrite": "~0.6.4-pre",
