@@ -11,16 +11,25 @@ Directive to display multi-level menu from json
 
 
 ### Development
-#### Prepare your environment
-* Install [Node.js](http://nodejs.org/) and NPM (should come with)
-* Install global dev dependencies: `npm install -g grunt-cli karma`
-* Install local dev dependencies: `npm install` while current directory is cd-menu repo
+
+```bash
+$ npm install -g grunt-cli
+$ npm install & bower install
+$ grunt
+```
 
 
 ##Testing
-
 ```bash
-$ npm install
-$ bower install
-$ grunt
+$ grunt test
+```
+
+##Display documentation
+```bash
+$ grunt showDoc
+```
+
+##Display example
+```bash
+$ grunt serve
 ```
