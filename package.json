@@ -1,5 +1,5 @@
 {
-  "name": "cd-menu-directive",
+  "name": "cd-menu",
   "version": "0.0.1",
   "description": "Directive to display menu",
   "devDependencies": {

@@ -1,7 +1,7 @@
 {
-  "name": "cd-menu-directive",
+  "name": "cd-menu",
   "version": "0.0.1",
-  "main":"./build/cd-menu-directive.js",
+  "main":"dist/cd-menu-directive.js",
   "description": "Directive to attach multi-level menu to a page",
   "author": "Cedric Duffournet",
   "hompage": "",
