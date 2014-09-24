@@ -60,9 +60,6 @@
    *
    * @param {object} itemlink link to display
    */
-  /*
-
-   */
   function menuItem($location) {
 
     function link($scope, $element, $attrs) {

@@ -46,5 +46,4 @@ angular
   .config(config)
   .controller('AppCtrl',AppCtrl);
 
-//config.$inject = ['$routeProvider','$locationProvider'];
 
