@@ -1,6 +1,6 @@
 {
   "name": "cd-menu",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main":["src/cd-menu-directive.js","src/template/cd-menu-directive.tpl.js"],
   "description": "Directive to attach multi-level menu to a page",
   "author": "Cedric Duffournet",
