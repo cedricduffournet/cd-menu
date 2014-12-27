@@ -60,6 +60,8 @@
    *
    * @param {object} itemlink link to display
    */
+
+  menuItem.$inject = ['$location'];
   function menuItem($location) {
 
     function link($scope, $element, $attrs) {
